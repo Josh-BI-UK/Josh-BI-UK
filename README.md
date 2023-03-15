@@ -6,7 +6,7 @@ _A self-proclaimed "Tech Tinkerer", all-around data geek and adventurer at heart
 <br>
 
 ### Bio/Profile
-I'm a Data Engineer who's been working with Microsoft Data Platform and Azure Cloud Solutions for over 10 years. My main gig is all about Data Integration, Data Warehousing, and Business Intelligence solutions.
+I'm a Data Engineer, having worked with Microsoft Data Platform and Azure Cloud Solutions for over 10 years. My main gig is in Data Integration, Data Warehousing, and Business Intelligence.
 
 But that's not all! When I'm not working, I love to explore the exciting world of IoT. I'm always looking for ways to connect data to the real world and bring technology to life - maily using ToT devices.
 
