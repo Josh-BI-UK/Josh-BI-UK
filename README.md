@@ -14,11 +14,12 @@ I also run a blog called ["UMS" - UpMySkills.co.uk](UpMySkills.co.uk), devoted t
 
 <br>
 
-### Connect with me:
+ ### Connect with me:
 
 [<img align="left" alt="Up My Skills Blog" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](www.upmyskills.co.uk)
 [<img align="left" alt="Joshua Payne | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/joshuapayneuk/)
 
+<br>
 <br>
 
 ### Languages and Tools I Use:
@@ -36,24 +37,16 @@ I also run a blog called ["UMS" - UpMySkills.co.uk](UpMySkills.co.uk), devoted t
 <br />
 <br />
 
-### Topics I would love to collaborate with you:
+### 🙌🏾 Topics I would love to collaborate with you on:
 
 - Data Engineering
 - IoT
 - Data Analytics for Sustainable Energy
 - Ethical/ Sustainable AI
 
-<!--
-**Josh-BI-UK/Josh-BI-UK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔭 I’m currently working on:
+- **IoT indoor environmental sensor with IAQ index**: based on [Rak Wireless Tech](https://rakwireless-helium.kckb.st/08d98484) - dashboard and analytics via Azure Synapse & Power BI
+- **Car Black Box telemetric with streaming data using LoRWAN**: based on [Rak Wireless Tech](https://rakwireless-helium.kckb.st/08d98484) - dashboard and analytics via Azure Synapse & Power BI
+- **Predictive maintenance for Fleet Management industry**: Dataset provided by [City of Cincinnati](https://data.cincinnati-oh.gov/), dashboard and analytics via Azure Synapse & Power BI
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+_Repo links will be published asap, once I have reviewed all the solutions.!👏🏾_
