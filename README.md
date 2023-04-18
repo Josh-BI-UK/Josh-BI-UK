@@ -48,5 +48,6 @@ I also run a blog called ["UMS" - UpMySkills.co.uk](UpMySkills.co.uk), devoted t
 - **IoT indoor environmental sensor with IAQ index**: based on [Rak Wireless Tech](https://rakwireless-helium.kckb.st/08d98484) - dashboard and analytics via Azure Synapse & Power BI
 - **Car Black Box telemetric with streaming data using LoRWAN**: based on [Rak Wireless Tech](https://rakwireless-helium.kckb.st/08d98484) - dashboard and analytics via Azure Synapse & Power BI
 - **Predictive maintenance for Fleet Management industry**: Dataset provided by [City of Cincinnati](https://data.cincinnati-oh.gov/), dashboard and analytics via Azure Synapse & Power BI
+- **ETL using open source tools for Retail industry**: 
 
 _Repo links will be published asap, once I have reviewed all the solutions.!👏🏾_
