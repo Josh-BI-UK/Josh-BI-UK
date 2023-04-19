@@ -45,9 +45,11 @@ I also run a blog called ["UMS" - UpMySkills.co.uk](UpMySkills.co.uk), devoted t
 - Ethical/ Sustainable AI
 
 ### 🔭 I’m currently working on:
+- **[Simple Data Dictionary Generator](https://github.com/Josh-BI-UK/simple-data-dic-generator)**: Python script that can be used to create basic data dictionaries for ETL/DW projects.
 - **IoT indoor environmental sensor with IAQ index**: based on [Rak Wireless Tech](https://rakwireless-helium.kckb.st/08d98484) - dashboard and analytics via Azure Synapse & Power BI
 - **Car Black Box telemetric with streaming data using LoRWAN**: based on [Rak Wireless Tech](https://rakwireless-helium.kckb.st/08d98484) - dashboard and analytics via Azure Synapse & Power BI
 - **Predictive maintenance for Fleet Management industry**: Dataset provided by [City of Cincinnati](https://data.cincinnati-oh.gov/), dashboard and analytics via Azure Synapse & Power BI
-- **ETL using open source tools for Retail industry**: 
+- **ETL using open-source tools for retail industry**: Python mainly used for extract & loading, SQL transforms, with Apache Airflow taking care of orchestration. Postgres SQL db backend.
+
 
 _Repo links will be published asap, once I have reviewed all the solutions.!👏🏾_
